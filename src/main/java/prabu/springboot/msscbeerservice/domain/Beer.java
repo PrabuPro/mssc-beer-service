@@ -1,5 +1,4 @@
-package prabu.springboot.msscbeerservice.web.domain;
-
+package prabu.springboot.msscbeerservice.domain;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GenericGenerator;
